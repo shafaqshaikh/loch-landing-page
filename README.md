@@ -1,4 +1,4 @@
-# Deployed web app link : https://loch-landing-page-o7bz6uyxq-shafaqshaikh10gmailcoms-projects.vercel.app/
+# Deployed web app link : https://loch-landing-page-omega.vercel.app/
 
 
 # Getting Started with Create React App
